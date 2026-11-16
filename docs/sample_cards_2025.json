@@ -1,0 +1,88 @@
+[
+  {
+    "customer_id": 1,
+    "year": 2025,
+    "variant": "full",
+    "tiles": [
+      {
+        "label": "Payments made",
+        "value": "25 payments"
+      },
+      {
+        "label": "Total paid",
+        "value": "MRD 1,508.53"
+      },
+      {
+        "label": "Biggest payment",
+        "value": "MRD 169.42",
+        "detail": "2025-12-12"
+      },
+      {
+        "label": "Busiest month",
+        "value": "August",
+        "detail": "4 payments"
+      },
+      {
+        "label": "Top category",
+        "value": "Education",
+        "detail": "17% of what you paid"
+      },
+      {
+        "label": "People you paid",
+        "value": "15"
+      },
+      {
+        "label": "Days you used your wallet",
+        "value": "24"
+      }
+    ],
+    "headline": "Your 2025 in review",
+    "persona": "Generous friend"
+  },
+  {
+    "customer_id": 19,
+    "year": 2025,
+    "variant": "light",
+    "tiles": [
+      {
+        "label": "Payments made",
+        "value": "1 payment"
+      },
+      {
+        "label": "Total paid",
+        "value": "MRD 67.55"
+      },
+      {
+        "label": "Biggest payment",
+        "value": "MRD 67.55",
+        "detail": "2025-01-03"
+      }
+    ],
+    "headline": "Your 2025, in brief"
+  },
+  {
+    "customer_id": 5,
+    "year": 2025,
+    "variant": "newcomer",
+    "tiles": [
+      {
+        "label": "Since you joined",
+        "value": "2 payments"
+      },
+      {
+        "label": "Paid so far",
+        "value": "MRD 67.61"
+      }
+    ],
+    "headline": "Welcome aboard",
+    "message": "You joined us late in 2025. Here's your start."
+  },
+  {
+    "customer_id": 3,
+    "year": 2025,
+    "variant": "quiet",
+    "tiles": [],
+    "headline": "We didn't see much of you in 2025",
+    "message": "Your wallet's ready whenever you are."
+  }
+]
